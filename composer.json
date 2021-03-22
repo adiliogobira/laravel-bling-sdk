@@ -1,5 +1,5 @@
 {
-    "name": "mayronalves/laravel-bling-php-sdk",
+    "name": "adiliogobira/laravel-bling-sdk",
     "description": "Biblioteca de integração com o Bling",
     "type": "library",
     "require": {
